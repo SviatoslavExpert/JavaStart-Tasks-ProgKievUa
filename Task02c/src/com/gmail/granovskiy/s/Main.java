@@ -1,3 +1,9 @@
+/*
+Java Start Task 02.03
+Написать программу которая вычислит и выведет на экран
+длину окружности, если ее радиус считывается с клавиатуры.
+*/
+
 package com.gmail.granovskiy.s;
 
 import java.util.Scanner;
