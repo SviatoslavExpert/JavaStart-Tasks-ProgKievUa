@@ -1,9 +1,3 @@
-/*
-Java Start Task 02.02
-Написать программу которая вычислит и выведет на экран
-площадь треугольника если известны его стороны.
-*/
-
 package com.gmail.granovskiy.s;
 
 public class Main {
