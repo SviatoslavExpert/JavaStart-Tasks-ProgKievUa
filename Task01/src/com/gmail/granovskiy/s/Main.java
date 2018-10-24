@@ -7,5 +7,4 @@ public class Main {
             System.out.println("Hello World!");
             System.out.println(5 + 15);
 	}
-
 }

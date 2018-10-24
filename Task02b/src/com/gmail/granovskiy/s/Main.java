@@ -12,6 +12,5 @@ public class Main {
         double area = Math.sqrt(p*(p - a)*(p - b)*(p - c));
         System.out.println("Triangle area: " + area);
         
-    }
-    
+    } 
 }
