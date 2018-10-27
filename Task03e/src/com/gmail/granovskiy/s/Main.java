@@ -26,8 +26,9 @@ public class Main {
 			System.out.println("The point is inside the circle.");
 		} else if (x * x + y * y == radius * radius) {
 			System.out.println("The point is on the circle line.");
-		} else
+		} else {
 			System.out.println("The point is outside the circle.");
+		}
 		sc.close();
 	}
 
