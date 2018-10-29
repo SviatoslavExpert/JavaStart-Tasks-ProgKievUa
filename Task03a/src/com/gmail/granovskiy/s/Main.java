@@ -34,10 +34,12 @@ public class Main {
 	}
 
 	public static int select(int x, int y) {
-		if (x > y)
+		if (x > y) {
 			return x;
-		else
+		}
+		else {
 			return y;
+		}
 	}
 
 }
