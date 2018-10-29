@@ -21,7 +21,7 @@ public class Main {
 
 		System.out.println("Enter the amount of columns:");
 		columns = sc.nextInt();
-		System.out.println("Enter the length of rows:");
+		System.out.println("Enter the amount of rows:");
 		rows = sc.nextInt();
 
 		for (int i = 0; i < rows; i++) {
